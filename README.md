@@ -12,7 +12,7 @@ Large man-power is needed by restaurants to ensure a rich dining experience and 
 
 
 PROPOSED SOFTWARE
-
+  
 With high labor rates, it is difficult to find employees when needed. An "Online Food Order System" is proposed which would address such an issue. The system automates the ordering process and simplifies transaction process made by the customer. Anticipated benefits are: 
 
 Minimial number of employees at the back of the counter. 
